@@ -8,6 +8,8 @@ A minimal RC5 block cipher implementation in Rust.
 
 -What is RC5?
 
+
+
  
 
 RC5 is a symmetric-key block cipher designed by Ronald Rivest in 1994. It is notable for its simplicity and parameterized design, offering flexibility in word size, number of rounds, and key size.
